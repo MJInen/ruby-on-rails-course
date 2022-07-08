@@ -1,5 +1,5 @@
 Join us if you have Knowledge in:
-- I don't know it yet
+- Ruby on Rails 6 - you will learn it soon!
 - HTML/CSS
 - I know GIT
 - databases (eg. PostgreSQL)
