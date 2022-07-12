@@ -22,7 +22,7 @@ And tiny progress list.
 Things you may want to cover:
 
 * Ruby
-  > version 3.0.0
+  > version 3.0.0p0
 
 * RoR
   > version 7.0.3
