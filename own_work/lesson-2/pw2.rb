@@ -56,7 +56,6 @@ all_users.push(admin_2)
 
 puts "===== All phones ======================="
 all_users.each do |usr|
-        # puts "adm: #{adm}"
         puts usr.phone_number
 end
 
@@ -65,6 +64,5 @@ puts "======================================="
 all_users.each do |usr|
     if usr.my_even?(usr.sum_digits_in_phone_number(usr.phone_number))
         puts "#{usr}"
-        # puts adm.phone_number
     end
 end
