@@ -1,7 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h3>The continuation of this subject is in repo: "BinarApps_lekcje_3-10"</h3>
+
 
 And tiny progress list.
 
@@ -9,14 +9,7 @@ And tiny progress list.
 
 - [x] Lesson 1 - done
 - [x] Lesson 2 - done
-- [ ] Lesson 3 - in progress now
-- [ ] Lesson 4
-- [ ] Lesson 5
-- [ ] Lesson 6
-- [ ] Lesson 7
-- [ ] Lesson 8
-- [ ] Lesson 9
-- [ ] Lesson 10
+
 
 
 Things you may want to cover:
